@@ -112,7 +112,7 @@ html::-webkit-scrollbar-thumb{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(back.png) no-repeat;
+    background: url(images/back.png) no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -214,7 +214,7 @@ section{
 }
 
 .blogs{
-    background: url(backGround.png) no-repeat;
+    background: url(images/backGround.png) no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -258,7 +258,7 @@ section{
 }
  
 .newsletter{
-    background: url(new.jpg) no-repeat;
+    background: url(images/new.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
@@ -333,7 +333,7 @@ section{
 }
 
 .review .review-row .box .client-info .clientDetailed h3{
-    font-size: 2.5regm;
+    font-size: 20px;
 
 }
 .review .review-row .box .client-info .clientDetailed p{
@@ -341,7 +341,7 @@ section{
 }
 
 .footer {
-    background: url(backGround.png) no-repeat;
+    background: url(images/backGround.png) no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -412,7 +412,7 @@ section{
     
 }
 
-/* thanks for watching my video  */
+
 
 
 
